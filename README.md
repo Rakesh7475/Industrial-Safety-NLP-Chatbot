@@ -30,7 +30,7 @@ Industrial Safety/NLP Chatbot
 
 
 ## Dataset 
-[Link](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/data.csv)
+[Link](https://github.com/rksh7475/Chatbot-NLP/blob/main/data.csv)
 
 
 The dataset is from one of the biggest industries in Brazil, having 12 different plants in 3
