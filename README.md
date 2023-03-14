@@ -30,7 +30,7 @@ Industrial Safety/NLP Chatbot
 
 
 ## Dataset 
-[Link](https://github.com/rksh7475/Chatbot-NLP/blob/main/data.csv)
+[Link](https://github.com/rakesh7475/Chatbot-NLP/blob/main/data.csv)
 
 
 The dataset is from one of the biggest industries in Brazil, having 12 different plants in 3
@@ -90,19 +90,19 @@ Distribution of characters of all sentences
 
 Distribution of words appearing in all descriptions
 
-![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/average_word_length.png)
+![alt text](https://github.com/Rakesh7475/Chatbot-NLP/blob/main/Images/average_word_length.png)
 
 Average Word Length
 
-![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/bigram_analysis.png)
+![alt text](https://github.com/Rakesh7475/Chatbot-NLP/blob/main/Images/bigram_analysis.png)
 
 Bigram analysis
 
-![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/trigram_analysis.png)
+![alt text](https://github.com/Rakesh7475//Chatbot-NLP/blob/main/Images/trigram_analysis.png)
 
 Trigram analysis
 
-![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/4gram_analysis.png)
+![alt text](https://github.com/Rakesh7475//Chatbot-NLP/blob/main/Images/4gram_analysis.png)
 
 Four gram analysis
 
